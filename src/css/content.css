@@ -1,0 +1,7 @@
+.speech-mic-div {
+position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 3000;
+    background-color: rgb(211, 211, 211, 0.5);
+}
